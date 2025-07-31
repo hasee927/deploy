@@ -1,3 +1,0 @@
-channel 删除 channel_type字段
-
-商户类别删除 large_out_amount large_in_amount
